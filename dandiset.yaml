@@ -36,3 +36,5 @@ keywords:
 - Neuropixels
 - NWB1.0
 name: 'Neuropixels recordings in mouse visual system '
+organism:
+- species: Mus musculus
