@@ -23,7 +23,7 @@ contributor:
   - dandi:Software
   - dandi:Author
   schemaKey: Person
-- identifier: 0000-001-7788-0200
+- identifier: 0000-0001-7788-0200
   includeInCitation: true
   name: Durand, Severine
   roleName:
