@@ -53,19 +53,20 @@ contributor:
   - dandi:DataCollector
   schemaKey: Person
 description: 'This dataset contains electrophysiological recordings in mouse visual
-  system collected at Allen Institute, packaged in NWB1.0 format. '
+  system collected at Allen Institute. '
 ethicsApproval: []
 id: 000040/draft
 identifier: DANDI:000040
 keywords:
 - Neuropixels
-- NWB1.0
-license: []
+license:
+- spdx:CC0-1.0
 manifestLocation: []
 name: Neuropixels recordings in mouse visual system
 protocol: []
 relatedResource: []
 repository: https://dandiarchive.org/
+schemaKey: Dandiset
 schemaVersion: 0.3.0
 studyTarget: []
 url: https://dandiarchive.org/000040/draft
