@@ -66,7 +66,8 @@ keywords:
 - Neuropixels
 license:
 - spdx:CC0-1.0
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000040/versions/draft/assets/
 name: Neuropixels recordings in mouse visual system
 protocol: []
 relatedResource: []
